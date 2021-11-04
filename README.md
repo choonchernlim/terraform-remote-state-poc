@@ -6,6 +6,9 @@
 - `global-ip` = Creates global IP within the project once project is created
 - `project-[N]` = Creates customer projects
 
+## State Dependencies
+
+![State Dependencies](doc/state-dependencies.png)
 
 ## Workflow
 
