@@ -9,6 +9,10 @@
 
 ## Workflow
 
+## One time activity
+- `config`: Initialize workspace... code cert, plan/apply to set up initial state
+- `global-ip`: Initialize workspace... code cert, plan/apply to set up initial state
+
 ### Project Creation 
 
 - `project-[N]`: Create a project... code cert, plan/apply to expose project info 
